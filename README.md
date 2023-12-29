@@ -12,8 +12,10 @@ Please place those 7 files, inside the folder named "JsonFiles" in "IRDataset" f
 Those files are mandatory for functioning of the IR System.  
 
 
-##### Above is small description about our Project and these are important steps to be followed before starting the project.
+##### Above is small description about our Project and some of the important steps to be followed before starting the project.
 
-##### Please download the zip file, unzip it and follow the exact same steps as like in the README.txt.
+##### Complete description about the project is present in `ProjDesc.docx` file. If required, please go through it.
+
+##### Please download the zip file, unzip it and follow the exact same steps as mentioned in the README.txt.
 
 
