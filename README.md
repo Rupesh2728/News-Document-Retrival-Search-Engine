@@ -3,8 +3,10 @@
   We Scraped the "TechCrunch" Website for the required dataset. 
 
 ### You may find the dataset and JSON Files in the below drive link
-`https://drive.google.com/drive/folders/1w-MOcWZxe9dN9Ts2SIGq1txZMIx8VJhf?usp=sharing` (Updated Drive Link, Please use this to download the files)
-                                  (or)
+Updated Drive Link, Please use this to download the files-
+`https://drive.google.com/drive/folders/1w-MOcWZxe9dN9Ts2SIGq1txZMIx8VJhf?usp=sharing` 
+
+ Old Drive link -                                 
 `https://drive.google.com/drive/folders/1Ur8HQk1NKTQeNKlzVhQnLS3_s1YTenGQ?usp=sharing` ( Old Drive Link)
                      
                      
