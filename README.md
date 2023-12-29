@@ -3,8 +3,11 @@
   We Scraped the "TechCrunch" Website for the required dataset. 
 
 ### You may find the dataset and JSON Files in the below drive link
-`https://drive.google.com/drive/folders/1Ur8HQk1NKTQeNKlzVhQnLS3_s1YTenGQ?usp=sharing`
-
+`https://drive.google.com/drive/folders/1w-MOcWZxe9dN9Ts2SIGq1txZMIx8VJhf?usp=sharing` (Updated Drive Link, Please use this to download the files)
+                                  (or)
+`https://drive.google.com/drive/folders/1Ur8HQk1NKTQeNKlzVhQnLS3_s1YTenGQ?usp=sharing` ( Old Drive Link)
+                     
+                     
 #### *****Note: Please Download All the 7 JSON files present in "JsonFiles" folder from above drive link.
 
 Please place those 7 files, inside the folder named "JsonFiles" in "IRDataset" folder that is present in "Search_Engine_Server" folder in "source code" folder.
